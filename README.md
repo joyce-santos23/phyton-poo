@@ -1,2 +1,2 @@
 # phyton-poo
- Tela de login e cadastro de agendamento de exames. (Em desenvolvimento)
+ Tela de login e cadastro de um sistema de agendamento de exames. (Em desenvolvimento)
